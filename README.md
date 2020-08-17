@@ -1,3 +1,5 @@
-# Virtual Truckers Union
-This repository is for the website code and issue tracking.  
-Take a look around the issues to get started!
+# Virtual Truckers Union - Website
+
+This repository is for the website code and the issues surrounding it. 
+
+Only James and Owen should be editing the code of websites.
